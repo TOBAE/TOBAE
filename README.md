@@ -12,7 +12,7 @@
  
  💞️ Follow my github to stay updated on my amazing projects.
  
- ⚡ Fun fact: Love watching Football, Playing Video Games & Coding.  
+ ⚡ Fun fact: I Love Football, Playing Video Games, Love Music & Coding.  
  
  📫 How to reach me: ...
 
