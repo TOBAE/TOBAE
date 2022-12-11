@@ -17,7 +17,8 @@
  📫 How to reach me: ...
 
 <p>
-  <a href = "https://www.linkedin.com/in/tobechukwu-odibeli-557074238"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/tobechukwu-odibeli-557074238"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/tobae_o?s=21&t=tnbJgQNGxrsKj8cjphxyPg"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/tobae_o?igshid=YmMyMTA2M2Y="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:tobechukwuodibeli@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
