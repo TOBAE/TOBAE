@@ -24,7 +24,7 @@
            
 </p> <br><br>
 
-## Stacks
+## Tech Stacks
 
  <table>
      <tbody>
