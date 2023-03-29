@@ -12,8 +12,6 @@
  
 - 💞️ Follow my github to stay updated on my amazing projects.
  
-- ⚡ Fun fact: I Love Football, Playing Video Games, Love Music & Coding.  
- 
 ## Contacts
 
 <p>
