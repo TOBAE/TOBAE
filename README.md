@@ -2,9 +2,7 @@
  
 # Hi there 👋, I'm Tobae
  
-- I'm an Aspiring Full Stack Developer from Nigeria
- 
-- 🌱 I’m currently learning Nodejs.
+- 🌱 A Full Stack Developer 
  
 - 👯 I’m looking to collaborate on projects.
  
