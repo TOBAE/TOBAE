@@ -2,7 +2,7 @@
  
 # Hi there 👋, I'm Tobae
  
-- 🌱 A Full Stack Developer 
+- 🌱 A Frontend Developer 
  
 - 🚀 Coding with Html, Css, JavaScript, React.js & NodejS.
  
